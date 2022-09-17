@@ -3,5 +3,6 @@ public class MainClass {
         System.out.println("Hello World!");
         System.out.println("New line to test");
         System.out.println("Second new line to test");
+        System.out.println("Hello");
     }
 }
