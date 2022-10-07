@@ -43,9 +43,11 @@ public class MainClass {
         person1.setAge(20);
         person1.setHeight(1750);
         person1.info();
+
         Person person2 = new Person("Wilson", "Brian", 25, 1810);
         person2.info();
     }
+
     static boolean toTrue(boolean bool){
         return true;
     }
